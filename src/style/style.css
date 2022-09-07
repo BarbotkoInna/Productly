@@ -91,7 +91,7 @@ p {
 }
 
 .sect2 {
-    background-image: url("/src/img/bgsec2.png");
+    background-image: url("src/img/bgsec2.png");
     background-repeat: no-repeat;
     
 }
